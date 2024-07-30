@@ -8,22 +8,8 @@ INTERNSHIP DURATION : 15/07/2024 TO 15/08/2024
 
 TASK : PORTFOLIO
 
-Creating a personal portfolio using CSS and HTML is a popular beginner web development
 
-project.
+Build your own Portfolio Site
 
-Header Section: Add your name or a logo at the top. Optionally, include a brief introduction or tagline. About Section: Insert an image of yourself.
+Building a personal portfolio website is one of the most simple yet tough front-end project ideas. You might begin by using your website as a resume. This means you can add information to the website about yourexperience, talents, and expertise .
 
-Write a short bio highlighting your skills and experience. Skills Section: List your key skills or areas of expertise.
-
-Projects Section: Showcase samples of your work or projects.
-
-Include project titles, descriptions, and images.
-
-Resume Section: Provide a link to download your resume in PDF format.
-
-Contact Section: Include your contact information, such as email address and phone
-
-number.
-
-Footer: Add a copyright notice and any additional links or information.
